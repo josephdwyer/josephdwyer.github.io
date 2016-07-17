@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a soon to be father and developer living in the San Francisco Bay area.
 
-### More Information
+I have been doing .NET development for six years (and I am pretty good at it). Currently, I work on PlanGrid for Windows so people in the construction industry can get stuff done and get home on time.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+In my spare time, I drink coffee & tea, build wooden things, and  grill. I also have an interest in finance and tax laws because I want to retire early (and this is completely feasible).
