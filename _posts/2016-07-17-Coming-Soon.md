@@ -11,6 +11,7 @@ title: Articles Coming Soon
 * MVVM - make sure your ViewModels are in a separate DLL
 * setting up VSTS build agent
 * Azure create VM image and create copies
+* using WPF VisualStateManager
 
 ###### Finance & Tax:
 * 4% rule
