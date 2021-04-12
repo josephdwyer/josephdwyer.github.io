@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Block GlobalSection(Performance) from .sln
+published: false
 ---
 
 Visual Studio 2015 (in my opinion) is a great improvement over previous iterations, with a major exception:  
